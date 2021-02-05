@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "interesting-goose-d24c1"
+    "name": "creative-academy"
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "iz0w61as",
